@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.exe
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.deps.json
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.runtimeconfig.json
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.dll
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\bin\Debug\netcoreapp3.1\leanrr-task.pdb
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\obj\Debug\netcoreapp3.1\leanrr-task.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\obj\Debug\netcoreapp3.1\leanrr-task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\obj\Debug\netcoreapp3.1\leanrr-task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\obj\Debug\netcoreapp3.1\leanrr-task.dll
+C:\Users\Admin\source\repos\leanrr-task\leanrr-task\obj\Debug\netcoreapp3.1\leanrr-task.pdb
